@@ -1,0 +1,9 @@
+# node_modules
+client/node_modules
+server/node_modules
+.env
+
+# DynamoDB Local files
+.dynamodb/
+package-lock.json
+server/.DS_Store
